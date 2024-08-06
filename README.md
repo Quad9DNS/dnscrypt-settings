@@ -23,6 +23,6 @@ Quad9 Plain:
 # Minisign public key
 
 ```text
-RWQBphd2+f6eiAqBsvDZEBXBGHQBJfeG6G+wJPPKxCZMoEQYpmoysKUN
+RWTp2E4t64BrL651lEiDLNon+DqzPG4jhZ97pfdNkcq1VDdocLKvl5FW
 ```
 

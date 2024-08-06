@@ -1,6 +1,6 @@
 [sources.quad9-resolvers-dot]
 urls = ["https://quad9.net/dnscrypt/quad9-resolvers-dot.md", "https://raw.githubusercontent.com/Quad9DNS/dnscrypt-settings/main/dnscrypt/quad9-resolvers-dot.md"]
-minisign_key = "RWQBphd2+f6eiAqBsvDZEBXBGHQBJfeG6G+wJPPKxCZMoEQYpmoysKUN"
+minisign_key = "RWTp2E4t64BrL651lEiDLNon+DqzPG4jhZ97pfdNkcq1VDdocLKvl5FW"
 cache_file = "quad9-resolvers-dot.md"
 refresh_delay = 72
 prefix = "quad9-"
